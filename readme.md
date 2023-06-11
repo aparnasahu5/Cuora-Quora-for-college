@@ -71,15 +71,10 @@ View app on http://localhost:3000
 
 ## Useful Resources 🧧
 
-- [Demo Video](https://www.youtube.com/watch?v=zYL1du5k2Vs&ab_channel=MounviPodapati)
 - [Design File](https://www.figma.com/file/RlwqrzDyETh2TUaAVy7xir/QuoVit?node-id=0%3A1)
-- [Final Report](https://github.com/mounvip1525/QuoVit/blob/master/19BCE0396_VL2021220105208_PE003.pdf)
 
 ## Contributors 🌟
-- [Mounvi Podapati](https://github.com/mounvip1525)
-- [Adarsh Mishra](https://github.com/adarsh0701)
-- [Trinav Rattan](https://github.com/Trinav2001)
-- [Tanmay Srivastava](https://github.com/tanmay-xvx)
+- Aparna Sahu(19BCE2125)
 
 ```javascript
 
