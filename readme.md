@@ -56,15 +56,13 @@ A module to allow students to connect to other students who offer guidance and h
  
 ## Setup Instructions 🏃
 
-Terminal 1
-1. `git clone https://github.com/mounvip1525/QuoVit-Backend.git` 
-2. `npm install`
-3. `node start`
+Terminal 1 
+1. `npm install`
+2. `node start`
 
 Terminal 2
-1. `git clone https://github.com/mounvip1525/QuoVit.git` 
-2. `cd frontend`
-3. `npm install & npm start`
+1. `cd frontend`
+2. `npm install & npm start`
 
 View app on http://localhost:3000 
 
